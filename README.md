@@ -57,8 +57,8 @@ XXX
 - pdf: pdf file to individual case 
 - href formula: web link to pdf file   
 - href: web link to pdf file 
-- Case Number: shark attack ID (to be evaluated if consistent with first column) 
-- Case Number: (to be evaluated if consistent with first column) 
+- Case Number.1: shark attack ID (to be evaluated if consistent with first column) 
+- Case Number.2: (to be evaluated if consistent with first column) 
 - original order: order's in which the attacks occured  
 
 ### Files Tree 
