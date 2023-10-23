@@ -2,7 +2,7 @@
 
 Cleaning 'Global Shark Attacks' databased available on kaggle. 
 
-![skark_picture](images/query_sql_title.png)
+![skark_picture](https://github.com/cristianecarneiro/data-cleaning-pandas/blob/main/3_img/tubarao-perigoso-debaixo-d-agua.jpg)
 
 
 ## Intro and objectives 
