@@ -7,25 +7,21 @@ Cleaning 'Global Shark Attacks' databased available on kaggle.
 
 ## Intro and objectives 
 
-XXX
+- This is a data cleaning exercise undertaken during IronHack's Data Analytics BootCamp 
+- The goal of the exercise was to clean DB 'sharks' guided by an analysis objective (i.e, prioritize variables relevant to the analysis' 
+- We were given the following conditions: 1) no columns should be deleted 2) the final databased should have >=2500 rows
+- As an analysis objective, I will understand the fatality of shark attacks vs. a set of selected variables 
 
 ## Key insights 
 
-XXX
+- While the analysis itself was a secondary objective in this exercises, we can draw some insights: 
++ Victims in the USA were less like to have fatal accidents 
++ Victims who were surfing where also less likely to have fatal accidents (maybe they continued surfing away, or hit the shark with the board?)
++ Victims who were swimming were more likely to have fatal accidents (hard to swim away at full speed after an attack?)
 
-## Data cleaning log and rationale 
+## Data cleaning log  
 
-### Process one 
-
-XXX
-
-### Process two  
-
-XXX
-
-### Process three
-
-XXX
+- The data cleaning process/techniques can be found in file clean.ipynb
 
 ## Back-up 
 
@@ -63,12 +59,3 @@ XXX
 - Case Number.1: shark attack ID (to be evaluated if consistent with first column) 
 - Case Number.2: (to be evaluated if consistent with first column) 
 - original order: order's in which the attacks occured  
-
-### Files Tree 
-- clean.ipynb: log of data cleaning techniques used
-- analysis.ipynb : data that validates the conclusions based initial hypotesis
-
-### To Do's (to be deleted)
-- Explore the data and write down what you have found you can use: df.describe(), df["column"], etc.
-- Use at least 5 data cleaning techniques inside a file named clean.ipynb null values, columns drop, duplicated data, string manipulation, apply fn, categorize, regex, etc.
-- Show data that validates the conclusions based on your hypoteses in a file named analysis.ipynb 
