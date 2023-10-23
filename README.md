@@ -2,6 +2,9 @@
 
 Cleaning 'Global Shark Attacks' databased available on kaggle. 
 
+![skark_picture](images/query_sql_title.png)
+
+
 ## Intro and objectives 
 
 XXX
